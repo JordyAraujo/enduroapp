@@ -1,0 +1,53 @@
+[
+    {
+        "model": "teams.team",
+        "pk": 1,
+        "fields": {
+            "teamname": "Car-Kará",
+            "carnumber": 171,
+            "costevent": 0.00,
+            "designevent": 110.00,
+            "salespresentation": 31.00,
+            "acceleration": 49.32,
+            "maneuverability": 0.00,
+            "hillclimb": 12.07,
+            "suspension": 24.93,
+            "endurance": 21,
+            "penalties": 0.00
+        }
+    },
+    {
+        "model": "teams.team",
+        "pk": 2,
+        "fields": {
+            "teamname": "Baja UFMG",
+            "carnumber": 158,
+            "costevent": 84.91,
+            "designevent": 100.00,
+            "salespresentation": 42.33,
+            "acceleration": 66.81,
+            "maneuverability": 61.20,
+            "hillclimb": 23.44,
+            "suspension": 50.11,
+            "endurance": 14,
+            "penalties": 0.00
+        }
+    },
+    {
+        "model": "teams.team",
+        "pk": 3,
+        "fields": {
+            "teamname": "EESC USP",
+            "carnumber": 165,
+            "costevent": 81.99,
+            "designevent": 90.00,
+            "salespresentation": 40.00,
+            "acceleration": 39.73,
+            "maneuverability": 57.33,
+            "hillclimb": 0.41,
+            "suspension": 57.02,
+            "endurance": 5,
+            "penalties": 0.00
+        }
+    }
+]
